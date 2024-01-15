@@ -12,7 +12,7 @@ Functionele eisen:
 - Laat zien welk product samen kan gaan met welk ander product
 - Voeg de mogelijkheid toe in het werkgeversaccount om productgegevens aan te passen
 
-Niet functionele eisen:
+Niet-functionele eisen:
 
 - Dankzij de lay-out kunnen werkgevers het aantal verkochte producten en het aantal producten op voorraad naast elkaar zien
 - Er mag geen verlies in snelheid optreden binnen de range van 0 tot 50 gelijktijdige gebruikers
